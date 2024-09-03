@@ -1,5 +1,3 @@
-Here's a comprehensive `README.md` file for your railway management system. It includes setup instructions, running the application, and optional test instructions.
-
 # Railway Management System
 
 ## Overview
